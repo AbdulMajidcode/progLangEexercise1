@@ -21,5 +21,6 @@ class Student(Person):
 
 
 
+
 student1 = Student("Alice",23, 34)
 print(student1.name)
